@@ -1,6 +1,5 @@
-package com.eurotech.pages;
+package com.eurotech.pages.Elements;
 
-import com.eurotech.test.TestBase;
 import com.eurotech.utilities.Driver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;

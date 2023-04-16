@@ -1,13 +1,9 @@
 package com.eurotech.test.Tasks;
 
-import com.eurotech.pages.BasePage;
 import com.eurotech.pages.TaskPage;
 import com.eurotech.test.TestBase;
 import com.eurotech.utilities.Driver;
 import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.support.ui.Wait;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 

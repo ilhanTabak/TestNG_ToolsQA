@@ -1,6 +1,6 @@
 package com.eurotech.test;
 
-import com.eurotech.pages.A_TextBox;
+import com.eurotech.pages.Elements.A_TextBox;
 import com.eurotech.utilities.ConfigurationReader;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;

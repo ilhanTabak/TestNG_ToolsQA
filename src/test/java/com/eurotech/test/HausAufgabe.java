@@ -1,18 +1,11 @@
 package com.eurotech.test;
 
 
-import com.eurotech.pages.*;
+import com.eurotech.pages.Elements.*;
 import com.eurotech.utilities.ConfigurationReader;
-import com.eurotech.utilities.Driver;
-import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
-import java.lang.reflect.Array;
-import java.util.ArrayList;
-import java.util.Arrays;
 
 public class HausAufgabe extends TestBase {
     A_TextBox textBox = new A_TextBox();
